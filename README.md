@@ -4,13 +4,13 @@ A web app that show a list of customer. You can add a new customer, edit or dele
 This Spring Boot  app use Thymeleaf template instead of JSP for pages, and connect to MySQL database .  
   
 
-Dependency: Web ; Thymeleaf; DevTools; Data JPA;  MySQL Driver (mysql-connector-java);
+Dependency: Web ; Thymeleaf; DevTools; Data JPA;  MySQL Driver (mysql-connector-java);  
 Links for remote bootstrap files:  
   - https://getbootstrap.com/		-> get started -> Starter template – copy.  
   
-How to use app:  
+How to use the app:  
 Select form CustomerController  
-  - simple-list-customers.html – show the page in a basic format. Create for test before adding Services and DAO package;
+  - simple-list-customers.html – show the page in a basic format. Created for test before adding Services and DAO package;
   - fancy-list-customers.html – add style using css and bootstrap framework.
   
   
