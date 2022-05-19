@@ -9,7 +9,7 @@ Links for remote bootstrap files:
   - https://getbootstrap.com/		-> get started -> Starter template – copy and add to html page.  
   
 How to use the app:  
-Select form CustomerController  
+Select from CustomerController  
   - simple-list-customers.html – show the page in a basic format. Created for test before adding Services and DAO package;
   - fancy-list-customers.html – add style using css and bootstrap framework.
   
