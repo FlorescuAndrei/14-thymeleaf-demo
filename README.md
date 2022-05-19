@@ -6,7 +6,7 @@ This Spring Boot  app use Thymeleaf template instead of JSP for pages, and conne
 
 Dependency: Web ; Thymeleaf; DevTools; Data JPA;  MySQL Driver (mysql-connector-java);  
 Links for remote bootstrap files:  
-  - https://getbootstrap.com/		-> get started -> Starter template – copy and add to html page.  
+  - https://getbootstrap.com/docs/4.4/getting-started/introduction/ -> Starter template – copy and add to html page.  
   
 How to use the app:  
 Select from CustomerController  
